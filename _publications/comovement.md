@@ -1,11 +1,11 @@
 ---
-title: "Comovement in Old And New Trade"
+title: "Comovement in Old and New Trade"
 collection: publications
 category: manuscripts
 permalink: /publication/comovement
 excerpt: ''
 date: 2022-12-30
-#venue: 'Journal 1'
+venue: 'Working Paper'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://github.com/guitei/JMP/raw/main/TonsigTeijeiro_JMP.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
